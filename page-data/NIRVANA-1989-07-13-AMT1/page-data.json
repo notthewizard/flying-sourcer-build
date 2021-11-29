@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-07-13-AMT1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-07-13-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["58a55a41d94c717efc782f52e579a728 *Nirvana 1989-07-13 AMT1 Video8 x264 AAC FLAC.mkv"],"city":"Hoboken, NJ, USA","date":"1989-07-13","extractedBy":"","extraction":"","generation":"Video8(M) > AVI [UtVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]","notes":["July 13, 1989","Maxwell's","Hoboken, NJ, USA"],"source":{"name":"AMT #1","recordingEquipment":"unknown > unknown"},"surfaced":"October 3, 2020","times":["20:37"],"tracks":["School","Floyd The Barber","Love Buzz","About A Girl","Scoff","Spank Thru","Blew"],"transferDetails":"Sony DCR-TRV730 > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > flac.exe & Apple AAC encoder q109","transferredBy":"","venue":"Maxwell's","warnings":[]}}},
+    "staticQueryHashes": []}

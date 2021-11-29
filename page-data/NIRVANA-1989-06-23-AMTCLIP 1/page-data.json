@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-06-23-AMTCLIP 1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-06-23-AMTCLIP 1","recording":{"artist":"NIRVANA","authored":"","checksums":["0986193525b2b2c1b2fd3f66037ca7ca *nirvana1989-06-23t01.flac"],"city":"Los Angeles, CA, USA","date":"1989-06-23","extractedBy":"Pieter Vermeulen.","extraction":"Philips DVDR1660P1 > DVD Decrypter 3.5.4.0 > PgcDemux 1.2.0.5 > Adobe Audition 1.5 > FLAC Frontend 1.7.1","generation":"TV > VHS(1) > RE-AUTHOR > DVDR(3) [9800Kbps CBR/256Kbps AC3] > AC3 [48kHz/256Kbps] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]","notes":["Ripped from the \"MTV Tribute to Nirvana\" compilation."],"source":{"name":"AMT CLIP #1","recordingEquipment":"unknown > unknown"},"surfaced":"Unknown","times":[],"tracks":["Sifting (clip)"],"transferDetails":"","transferredBy":"Patrick Waelpoel","venue":"Rhino Records Westwood","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-12-01-unknown-> unknown",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-12-01-unknown-> unknown","recording":{"artist":"NIRVANA","authored":"","checksums":["b2e20aa4003824a037e48dedf621d936 *89-12-01.flac"],"city":"Issy-les-Moulineaux, France","date":"1989-12-01","extractedBy":"","extraction":"","generation":"FM -> WAV [44.1kHz] -> FLAC [Level 8]","notes":["December 1, 1989","Fahrenheit, MJC Espace Icare","Issy-les-Moulineaux, France"],"source":{"name":"unknown -> unknown","recordingEquipment":""},"surfaced":"December 24, 2008 (re-upload)","times":["11:56"],"tracks":["DJ Intro","School","Scoff","Blew"],"transferDetails":"","transferredBy":"unknown.","venue":"Fahrenheit, MJC Espace Icare","warnings":[]}}},
+    "staticQueryHashes": []}

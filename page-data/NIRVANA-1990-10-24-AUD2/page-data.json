@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1990-10-24-AUD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1990-10-24-AUD2","recording":{"artist":"NIRVANA","authored":"","checksums":["ee0985035cc03415b51d12a5ad98b866 *Nirvana_1990-10-24_AUD2_48.flac"],"city":"London, United Kingdom","date":"1990-10-24","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["October 24, 1990","Astoria Theatre","London, United Kingdom"],"source":{"name":"AUD #2","recordingEquipment":"unknown > unknown"},"surfaced":"June 29, 2012","times":["66:56"],"tracks":["Blew (cut)","Been A Son","Negative Creep (cut)","Stain","Lithium","Spank Thru","Breed","Floyd The Barber","Big Cheese","About A Girl (cut)","In Bloom","Scoff","Molly's Lips","D-7","Love Buzz","Sliver","Dive","Paper Cuts","School"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"Astoria Theatre","warnings":[]}}},
+    "staticQueryHashes": []}

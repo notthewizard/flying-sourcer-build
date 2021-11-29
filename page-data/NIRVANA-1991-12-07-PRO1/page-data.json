@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-12-07-PRO1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-12-07-PRO1","recording":{"artist":"NIRVANA","authored":"","checksums":["82bd81680d44eec2496317a387784455 *Nirvana_1991-12-07_PRO1_t01.flac","9601d134e207089fc5cd931dd83e9c4d *Nirvana_1991-12-07_PRO1_t02.flac"],"city":"Rennes, France","date":"1991-12-07","extractedBy":"David W.","extraction":"LG DVDRAM GSA-H10A -> DVD Decrypter 3.5.4.0 -> BeSweet 1.4 -> Adobe Audition 1.5 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1","generation":"TV -> VHS(1) -> DVDR(1) -> ac3 [384kbps] -> WAV [48kHz] -> FLAC [Level 8]","notes":["Shot by the French TV station \"TV Rennes\".","Broadcast on the French TV channel \"FR3\" in 1992."],"source":{"name":"PRO #1","recordingEquipment":"soundboard -> unknown"},"surfaced":"June 14, 2008","times":["7:16"],"tracks":["Jesus Wants Me For A Sunbeam","Smells Like Teen Spirit (cuts in)"],"transferDetails":"LG DVX7900 -> Philips DVDR3510V","transferredBy":"","venue":"Salle Omnisports (Trans Musicales)","warnings":[]}}},
+    "staticQueryHashes": []}

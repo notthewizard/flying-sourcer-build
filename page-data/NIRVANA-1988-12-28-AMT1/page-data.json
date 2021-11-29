@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1988-12-28-AMT1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1988-12-28-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["46c8896f56ba0a4872d0d7bcc4759d54 *88-12-28 AMT #1 [VHS(x)-YouTube].mp4"],"city":"Seattle, WA, USA","date":"1988-12-28","extractedBy":"PHS","extraction":"September 16, 2021","generation":"VHS(X) -> YouTube -> MP4","notes":["Surfaced on YouTube: https://www.youtube.com/watch?v=4sYtCa968kE"],"source":{"name":"AMT #1","recordingEquipment":"unknown > unknown"},"surfaced":"March 1, 2020","times":["03:07"],"tracks":["School"],"transferDetails":"","transferredBy":"Alt Copperpot5","venue":"The Underground (Sub Pop 200 Record Release Party)","warnings":[]}}},
+    "staticQueryHashes": []}

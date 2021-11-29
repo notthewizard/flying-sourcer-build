@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1990-04-01-AUD 2a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1990-04-01-AUD 2a","recording":{"artist":"NIRVANA","authored":"","checksums":["60ad4c213b724af863aec981bce8d405 *NIRVANA 04-01-1990 AUD#2.flac"],"city":"Chicago, IL, USA","date":"1990-04-01","extractedBy":"David Lajeunesse","extraction":"","generation":"ANA(4) -> CDR(3) -> FLAC","notes":["Encoded with xACT FLAC Level 8"],"source":{"name":"AUD # 2a","recordingEquipment":"Unknown -> Unknown"},"surfaced":"Unknown","times":["46:43"],"tracks":["Love Buzz","Floyd the Barber","Scoff","Dive","In Bloom","School","Spank Thru","Breed","About A Girl","Big Cheese","Stain","Been A Son","Negative Creep","Blew"],"transferDetails":"","transferredBy":"","venue":"Cabaret Metro","warnings":[]}}},
+    "staticQueryHashes": []}

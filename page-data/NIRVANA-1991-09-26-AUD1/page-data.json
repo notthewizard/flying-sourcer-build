@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-09-26-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-09-26-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["63a0cce0c7e4840b7e5bddf80952d6ab *Nirvana_1991-09-26_AUD1_48.flac"],"city":"New Haven, CT, USA","date":"1991-09-26","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["September 26, 1991","The Moon","New Haven, CT, USA"],"source":{"name":"AUD #1","recordingEquipment":"unknown > Sony WM-D6"},"surfaced":"December 16, 2011","times":["71:50"],"tracks":["intro","Jesus Wants Me For A Sunbeam","Here She Comes Now","D-7","Aneurysm","Drain You","School","Floyd The Barber","About A Girl","Love Buzz","Smells Like Teen Spirit","Breed","Polly","Spank Thru","Sliver","Blew (jam)","Blew","Been A Son","Negative Creep","Endless, Nameless"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"The Moon","warnings":[]}}},
+    "staticQueryHashes": []}

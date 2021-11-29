@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-12-28-SBD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-12-28-SBD2","recording":{"artist":"NIRVANA","authored":"","checksums":["0da39a479863c32a5619b63ddcbc4852 *Nirvana_1991-12-28_SBD2_48.flac"],"city":"Del Mar, CA, USA","date":"1991-12-28","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["This is a recording of the monitor mix.","Has open mics mixed in at some points, most noticeably at the beginning of \"Smells Like Teen Spirit.\""],"source":{"name":"SBD #2","recordingEquipment":"soundboard > unknown"},"surfaced":"November 7, 2007","times":["36:17"],"tracks":["intro","Drain You","Aneurysm (cuts out)","School (cuts in)","Floyd The Barber","Smells Like Teen Spirit","About A Girl","Polly","Sliver","Breed","Come As You Are","Lithium","Territorial Pissings"],"transferDetails":"Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > FLAC frontend 1.7.1","transferredBy":"Kris Sproul","venue":"Pat O'Brien Pavilion, Del Mar Fairgrounds","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1990-01-20-AUD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1990-01-20-AUD2","recording":{"artist":"NIRVANA","authored":"","checksums":["0e9d7f7a00c037925427b51ae17d38a8 *SideAstretch48.flac","e16c0c89419d036edc68e3cab02640c8 *SideBstretch48.flac"],"city":"Tacoma, WA, USA","date":"1990-01-20","extractedBy":"","extraction":"","generation":"ANA(X) -> WAV [96k/32b] -> speed correct --> WAV [48k/16b] -> FLAC","notes":["Missing few songs, lots of cuts between tracks.  I've had this tape forever and had assumed it was a cut dupe of one of the other sources.  Turns out it isn't."],"source":{"name":"AUD #2","recordingEquipment":"unknown"},"surfaced":"April 21, 2007","times":["46:53"],"tracks":["Love Buzz","Dive","Scoff","All You Need Is Love / Matt Is Drunk / If I Fell / Living Loving Maid","About A Girl","Big Cheese","Molly's Lips","Token Eastern Song","Spank Thru","Breed","Stain","Been A Son","Sweet Home Alabama (jam)","Negative Creep","Blew"],"transferDetails":"","transferredBy":"Unknown","venue":"Legends","warnings":[]}}},
+    "staticQueryHashes": []}

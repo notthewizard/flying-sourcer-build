@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-11-01-AMTCLIP 1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-11-01-AMTCLIP 1b","recording":{"artist":"NIRVANA","authored":"","checksums":["fe49239dae28666edeb82ed0c0ca4e0d *1989-11-01L_AMTCLIP1b_t01_Scoff.flac","743f18902a613fa6f1193e49b812106e *1989-11-01L_AMTCLIP1b_t02_School.flac"],"city":"Rotterdam, The Netherlands","date":"1989-11-01","extractedBy":"","extraction":"","generation":"DTV > MPEG > MP4 > FLAC","notes":["November 1, 1989","Nighttown","Rotterdam, The Netherlands"],"source":{"name":"AMT CLIP #1b","recordingEquipment":"Built In > Unknown"},"surfaced":"May 14, 2020","times":["00:25"],"tracks":["Scoff","School"],"transferDetails":"","transferredBy":"Unknown","venue":"Nighttown","warnings":[]}}},
+    "staticQueryHashes": []}

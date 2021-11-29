@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1990-11-25-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1990-11-25-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["f0751e054b1ba4a7181145490f9061c9 *Nirvana_1990-11-25_AUD1_48.flac"],"city":"Seattle, WA, USA","date":"1990-11-25","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["November 25, 1990","Off Ramp Cafe","Seattle, WA, USA"],"source":{"name":"AUD #1","recordingEquipment":"unknown > unknown"},"surfaced":"April 23, 2017","times":["72:05"],"tracks":["Aneurysm","Oh, The Guilt","Mr. Moustache","Stay Away","Breed","Floyd The Barber","About A Girl","Verse Chorus Verse","In Bloom","Swap Meet","Been A Son","Stain","Blew","Sappy","Lithium","School","D-7","Here She Comes Now","Sliver","Dive (part of)"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Off Ramp Cafe","warnings":[]}}},
+    "staticQueryHashes": []}

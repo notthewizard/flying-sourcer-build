@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-11-17-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-11-17-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["cc93d71995eb10f188b05ca4eb01a714 *Nirvana_1989-11-17_AUD1_48.flac"],"city":"Gammelsdorf, West Germany","date":"1989-11-17","extractedBy":"","extraction":"","generation":"ANA(M) > WAV [24bit/48kHz] > WAV [48kHz] > FLAC [Level 8]","notes":["Has three dropouts or cuts within the first 10 seconds of the recording."],"source":{"name":"AUD #1","recordingEquipment":"Aiwa > Aiwa"},"surfaced":"March 28, 2013","times":["59:38"],"tracks":["intro","School","Scoff","Love Buzz","Floyd The Barber","Dive","Polly","Big Cheese","Spank Thru","About A Girl","Breed","Molly's Lips","Token Eastern Song","Been A Son","Negative Creep","Blew"],"transferDetails":"Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > Trader's Little Helper 2.4.1","transferredBy":"Daniel B�r","venue":"Circus","warnings":[]}}},
+    "staticQueryHashes": []}

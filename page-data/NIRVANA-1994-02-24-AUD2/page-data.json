@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1994-02-24-AUD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1994-02-24-AUD2","recording":{"artist":"NIRVANA","authored":"","checksums":["5a4498623e117aa543104cae81656437 *Nirvana 1994-02-24 AUD2 t01 In Bloom.flac"],"city":"Milan, Italy","date":"1994-02-24","extractedBy":"","extraction":"","generation":"ANA(M) > FLAC [16bit/44.1khz]","notes":["February 24, 1994","Palatrussardi","Milan, Italy"],"source":{"name":"AUD #2","recordingEquipment":"unknown > unknown"},"surfaced":"July 12, 2021","times":["00:33"],"tracks":["In Bloom (cuts in and out)"],"transferDetails":"Max Zarucchi","transferredBy":"","venue":"Palatrussardi","warnings":[]}}},
+    "staticQueryHashes": []}

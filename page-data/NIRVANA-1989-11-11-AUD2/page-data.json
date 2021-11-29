@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-11-11-AUD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-11-11-AUD2","recording":{"artist":"NIRVANA","authored":"","checksums":["e46b74c32180538f0a377b402da19a36 *Nirvana_1989-11-11_AUD2_48.flac"],"city":"Berlin, West Germany","date":"1989-11-11","extractedBy":"","extraction":"","generation":"ANA(x) > WAV [24bit/48kHz] > WAV [48kHz] > FLAC [Level 8]","notes":["Has some cuts between songs."],"source":{"name":"AUD #2","recordingEquipment":"unknown > unknown"},"surfaced":"April 24, 2013","times":["42:13"],"tracks":["intro","School","Scoff","Love Buzz","Floyd The Barber","Dive","Polly","About A Girl","Big Cheese","Mr. Moustache","Spank Thru","Breed (part of)"],"transferDetails":"Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > Trader's Little Helper 2.4.1","transferredBy":"Daniel B�r","venue":"Ecstasy","warnings":[]}}},
+    "staticQueryHashes": []}

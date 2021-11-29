@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1992-06-26-SBD1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1992-06-26-SBD1b","recording":{"artist":"NIRVANA","authored":"","checksums":["6ceb91b93efdde81843ee118f7a971a3 *nirvana1992-06-26.flac"],"city":"Roskilde, Denmark","date":"1992-06-26","extractedBy":"","extraction":"","generation":"MASTER > MP3 [192Kbps] > WAV [44.1kHz] > FLAC [Level 8]","notes":["Released as an MP3 file on Danmarks Radio�s website."],"source":{"name":"SBD #1b","recordingEquipment":"soundboard > unknown"},"surfaced":"September 15, 2008","times":["4:14"],"tracks":["Lithium"],"transferDetails":"","transferredBy":"Unknown","venue":"Dyrskuepladsen (Roskilde Festival)","warnings":[]}}},
+    "staticQueryHashes": []}

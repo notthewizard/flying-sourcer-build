@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1994-02-14-PRO1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1994-02-14-PRO1b","recording":{"artist":"NIRVANA","authored":"","checksums":["6d0193bc7af2c9f6f1330a01e33642b7 *Nirvana_1994-02-14_PRO1b.mp2"],"city":"Paris, France","date":"1994-02-14","extractedBy":"","extraction":"","generation":"DVB-T -> .TS [MPEG-2 / 224 kbps MP2] -> MP2 [224 kbps/48kHz]","notes":["rebroadcast on November 23, 2008 on french channel Virgin TV","raw unaltered source, the host intro from the broadcast is still uncut"],"source":{"name":"PRO #1b","recordingEquipment":"soundboard -> unknown"},"surfaced":"September 17, 2012","times":["02:35"],"tracks":["Host intro","Rape Me"],"transferDetails":"Freebox v5 HD (TNT Tuner) -> ProjectX -> tsMuxeR 1.10.6","transferredBy":"Julien D","venue":"Le Z�nith","warnings":[]}}},
+    "staticQueryHashes": []}

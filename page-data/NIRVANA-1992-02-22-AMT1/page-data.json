@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1992-02-22-AMT1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1992-02-22-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["dc88037d3bb293a091ae6739402d88ff *NIRVANA - 92-02-22 AMT #1 [8MM(M)-YouTube].mp4"],"city":"Honolulu, HI, USA","date":"1992-02-22","extractedBy":"PHS","extraction":"","generation":"8MM(M) -> YouTube - MP4","notes":["Surfaced on YouTube: https://www.youtube.com/watch?v=bOHnh-nRHl4"],"source":{"name":"AMT #1","recordingEquipment":""},"surfaced":"December 3, 2019","times":["07:18"],"tracks":["Come As You Are (cuts in)","Lithium"],"transferDetails":"Unknown -> YouTube -> JDownloader 2","transferredBy":"","venue":"Pink's Garage","warnings":[]}}},
+    "staticQueryHashes": []}

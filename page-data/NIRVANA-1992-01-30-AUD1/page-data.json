@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1992-01-30-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1992-01-30-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["7e5b98fe63e10966f5df1fa99bd5e598 *Nirvana_1992-01-30_AUD1_48.flac"],"city":"Adelaide, Australia","date":"1992-01-30","extractedBy":"","extraction":"","generation":"ANA(M) > WAV [48kHz] > FLAC [Level 8]","notes":["January 30, 1992","Thebarton Theatre","Adelaide, Australia"],"source":{"name":"AUD #1","recordingEquipment":"Sony PC-62 > Sony WM-D3"},"surfaced":"March 22, 2012","times":["72:25"],"tracks":["intro","Aneurysm","Drain You","School","Sliver","About A Girl","Breed","Come As You Are","Lithium","Polly","Lounge Act","Negative Creep","Been A Son","Blew","On A Plain","Something In The Way","Stain","Smells Like Teen Spirit","Love Buzz","Territorial Pissings"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"Thebarton Theatre","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-10-23-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-10-23-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["8b7bcf284fdfd4d89c7ed7b8d86e2013 *Nirvana_1989-10-23_AUD1_48.flac"],"city":"Newcastle upon Tyne, United Kingdom","date":"1989-10-23","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["Has a dropout in \"Polly.\""],"source":{"name":"AUD #1","recordingEquipment":"unknown > unknown"},"surfaced":"December 23, 2017","times":["46:57"],"tracks":["intro","School","Scoff","Love Buzz","jam","Floyd The Barber","Dive","Polly","Big Cheese","Spank Thru","About A Girl","Token Eastern Song (cut)","Negative Creep","Blew"],"transferDetails":"Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0","transferredBy":"Daniel B�r","venue":"Riverside","warnings":[]}}},
+    "staticQueryHashes": []}

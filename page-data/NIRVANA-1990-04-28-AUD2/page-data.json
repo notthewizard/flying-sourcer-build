@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1990-04-28-AUD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1990-04-28-AUD2","recording":{"artist":"NIRVANA","authored":"","checksums":["d7052fdad6efbc62427a87c6581ae54d *NIRVANA 1990-04-28 AUD#2 ANA(M) [24-48].flac"],"city":"Hoboken, NJ, USA","date":"1990-04-28","extractedBy":"","extraction":"","generation":"ANA(M)> WAV[24 bit/48kHz] > FLAC [Level 8]","notes":["April 28, 1990","Maxwell's","Hoboken, NJ, USA"],"source":{"name":"AUD #2","recordingEquipment":"unknown"},"surfaced":"December 21, 2020","times":["52:03"],"tracks":["Intro","School","Floyd The Barber","Love Buzz","Dive","Spank Thru","Breed","About A Girl","Big Cheese","In Bloom","Scoff","Stain","Been A Son","Negative Creep","Blew"],"transferDetails":"Members of LiveNIRVANA.com","transferredBy":"","venue":"Maxwell's","warnings":[]}}},
+    "staticQueryHashes": []}

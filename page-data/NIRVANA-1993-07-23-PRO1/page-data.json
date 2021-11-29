@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1993-07-23-PRO1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1993-07-23-PRO1","recording":{"artist":"NIRVANA","authored":"","checksums":["3cb3efb7f572a5bcd512e38155931485 *93-07-23 PRO #1 [VHS(x)-YouTube].mp4"],"city":"New York, NY, USA","date":"1993-07-23","extractedBy":"PHS","extraction":"","generation":"VHS(x) -> YouTube -> MP4","notes":["Surfaced on YouTube: https://www.youtube.com/watch?v=THF-if9heHs","The PRO #1 audio on YouTube was replaced by AUD #4 \"Unofficial CD [I Hate Myself And I Want To Die]\"."],"source":{"name":"PRO #1","recordingEquipment":""},"surfaced":"January 2, 2020","times":["13:46"],"tracks":["Breed (cuts in)","Lithium","Come As You Are","Milk It","Drain You (cuts in and out)"],"transferDetails":"Unknown -> YouTube -> JDownloader 2","transferredBy":"Alt Copperpot5","venue":"Roseland Ballroom (New Music Seminar)","warnings":["The PRO #1 audio on YouTube was replaced by AUD #4 [Unofficial CD(I Hate Myself And I Want To Die)].\r"]}}},
+    "staticQueryHashes": []}

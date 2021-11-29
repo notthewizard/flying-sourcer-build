@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-06-24-AMTCLIP 1a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-06-24-AMTCLIP 1a","recording":{"artist":"NIRVANA","authored":"","checksums":["ef7614ded7be0eb09c6bcf0a8094b934 *nirvana1989-06-24t01.flac"],"city":"Los Angeles, CA, USA","date":"1989-06-24","extractedBy":"","extraction":"","generation":"VHS(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]","notes":["Inferior to the VHS(1) extraction."],"source":{"name":"AMT CLIP #1a","recordingEquipment":"unknown > unknown"},"surfaced":"Unknown","times":["0:35"],"tracks":["School (clips)"],"transferDetails":"JVC HR-S9911U > Echo Layla24 > Adobe Audition 2.0 > FLAC frontend 1.7.1","transferredBy":"Kris Sproul","venue":"Al's Bar","warnings":["Inferior to the VHS(1) extraction.\r"]}}},
+    "staticQueryHashes": []}

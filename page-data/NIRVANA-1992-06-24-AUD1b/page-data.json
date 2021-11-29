@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1992-06-24-AUD1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1992-06-24-AUD1b","recording":{"artist":"NIRVANA","authored":"","checksums":["9fdb7881b04a2099216f212bad94be71 *Nirvana_1992-06-24_AUD1_DATM-FLAC_48.flac"],"city":"Paris, France","date":"1992-06-24","extractedBy":"","extraction":"","generation":"DAT(M) -> WAV [48kHz] -> FLAC [Level 8]","notes":["Originally labelled as AUD #1 but was found to be of worse quality because of transfer issues than AUD #1a."],"source":{"name":"AUD #1b","recordingEquipment":"Sony PC-62 -> Sony TCD-D3"},"surfaced":"June 25, 2013","times":["79:53"],"tracks":["intro","Aneurysm","Drain You","Stay Away","Sliver","School","In Bloom","Breed","About A Girl","Scoff","Polly","Lithium","Blew","Been A Son","On A Plain","Negative Creep","encore break","Come As You Are","Love Buzz","Smells Like Teen Spirit","Territorial Pissings","Endless, Nameless"],"transferDetails":"Unknown -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1","transferredBy":"Kissamos","venue":"Le Z�nith","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1990-09-22-AMT1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1990-09-22-AMT1b","recording":{"artist":"NIRVANA","authored":"","checksums":["892f447136507fcdf59b3ddb56e6d07c *Nirvana_1990-09-22_AMT1b_48.flac"],"city":"Seattle, WA, USA","date":"1990-09-22","extractedBy":"","extraction":"","generation":"VHS(1) > AVI [PCM] > WAV [48kHz] > FLAC [Level 8]","notes":["September 22, 1990","Motor Sports International and Garage","Seattle, WA, USA"],"source":{"name":"AMT #1b","recordingEquipment":"unknown > unknown"},"surfaced":"April 12, 2018","times":["51:18"],"tracks":["Stay Away","Blew","Been A Son","Negative Creep","Floyd The Barber","About A Girl","School","Love Buzz","Breed","In Bloom","Scoff","Spank Thru","Sliver","Dive","jam"],"transferDetails":"JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS6 > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Motor Sports International and Garage","warnings":[]}}},
+    "staticQueryHashes": []}

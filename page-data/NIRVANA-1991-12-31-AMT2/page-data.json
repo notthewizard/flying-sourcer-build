@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-12-31-AMT2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-12-31-AMT2","recording":{"artist":"NIRVANA","authored":"","checksums":["c309c666c85586a2f1cdd40ae04a20ae *Nirvana - 91-12-31 AMT #2 [8MM(M)-VHS(x)-YouTube].mp4"],"city":"Daly City, CA, USA","date":"1991-12-31","extractedBy":"PHS","extraction":"September 7, 2021","generation":"8MM(M) -> VHS(x) -> YouTube -> MP4","notes":["Uploaded on YouTube: https://www.youtube.com/watch?v=Eevy85lgoPE"],"source":{"name":"AMT #2","recordingEquipment":""},"surfaced":"January 26, 2016","times":["04:53"],"tracks":["Drain You","Aneurysm"],"transferDetails":"Unknown -> YouTube -> JDownloader 2","transferredBy":"","venue":"Cow Palace","warnings":[]}}},
+    "staticQueryHashes": []}

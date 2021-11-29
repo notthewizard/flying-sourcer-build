@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1989-12-01-AMT1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1989-12-01-AMT1b","recording":{"artist":"NIRVANA","authored":"","checksums":["3b5f683f9b9da8442857a166c0ec1995 *nirvana_3.mov","7f9df489dcbdabedd7066ca570a1bafc *nirvana_4.mov"],"city":"Issy-les-Moulineaux, France","date":"1989-12-01","extractedBy":"","extraction":"","generation":"MASTER -> MOV [889kbps Sorenson 1/64kbps 8bit PCM]","notes":["MOV video files released on the venue's website."],"source":{"name":"AMT #1b","recordingEquipment":"unknown -> unknown"},"surfaced":"Unknown","times":["6:41"],"tracks":["Love Buzz","Dive"],"transferDetails":"unknown","transferredBy":"unknown.","venue":"Fahrenheit, MJC Espace Icare","warnings":[]}}},
+    "staticQueryHashes": []}

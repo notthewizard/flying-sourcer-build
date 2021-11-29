@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1994-02-25-AMT4",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1994-02-25-AMT4","recording":{"artist":"NIRVANA","authored":"","checksums":["c5d78f78f311220007bfec4d39114108 *1994_02_25_AMT#4_'Kurt74'_Sappy_VHS(X).mkv"],"city":"Milan, Italy","date":"1994-02-25","extractedBy":"","extraction":"","generation":"VHS(X) ->  miniDV ->  DV Type 1 AVI ->  MPEG-2 PS [8Mbps CBR/48kHz PCM] (Aspect Ratio 4:3 - PAL)","notes":["Thanks to \"Kurt74\" for his help."],"source":{"name":"AMT #4","recordingEquipment":""},"surfaced":"February 26, 2019","times":[],"tracks":["Sappy"],"transferDetails":"","transferredBy":"Raffaele Piacenti.","venue":"Palatrussardi","warnings":[]}}},
+    "staticQueryHashes": []}

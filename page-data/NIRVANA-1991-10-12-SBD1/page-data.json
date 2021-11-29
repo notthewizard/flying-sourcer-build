@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-10-12-SBD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-10-12-SBD1","recording":{"artist":"NIRVANA","authored":"","checksums":["3d50b70d1a59cd4855fef94fa92e3d8a *Nirvana_1991-10-12_SBD1_48.flac"],"city":"Chicago, IL, USA","date":"1991-10-12","extractedBy":"","extraction":"","generation":"DAT(M) [48kHz/16bit] > WAV [48kHz/16bit] > FLAC [Level 8]","notes":["October 12, 1991","Cabaret Metro","Chicago, IL, USA"],"source":{"name":"SBD #1","recordingEquipment":"soundboard > Sony TCD-D10"},"surfaced":"December 6, 2020","times":["64:05"],"tracks":["intro","Jesus Wants Me For A Sunbeam","Aneurysm","School","Floyd The Barber","Drain You","Smells Like Teen Spirit","About A Girl","Breed","Polly","Sliver","Pennyroyal Tea","Love Buzz","Lithium","Been A Son","On A Plain","Negative Creep","Blew","Endless, Nameless"],"transferDetails":"Panasonic SV-3700 > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Cabaret Metro","warnings":[]}}},
+    "staticQueryHashes": []}

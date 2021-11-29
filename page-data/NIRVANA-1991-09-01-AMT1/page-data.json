@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-09-01-AMT1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-09-01-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["e05108b111c368f7d8fbf2c4c620a66d *nirvana1991-09-01_48.flac"],"city":"Rotterdam, The Netherlands","date":"1991-09-01","extractedBy":"","extraction":"","generation":"VHS(1) -> WAV [48kHz] -> FLAC [Level 8]","notes":["September 1, 1991","De Doelen (Ein Abend in Wien)","Rotterdam, The Netherlands"],"source":{"name":"AMT #1","recordingEquipment":"unknown -> unknown"},"surfaced":"February 10, 2008","times":["49:22"],"tracks":["intro","Polly","Drain You","School","Floyd The Barber","Smells Like Teen Spirit","Come As You Are","About A Girl","Breed","Sliver","In Bloom","Been A Son","Negative Creep (part of)"],"transferDetails":"JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1","transferredBy":"Mike Ziegler.","venue":"De Doelen (Ein Abend in Wien)","warnings":[]}}},
+    "staticQueryHashes": []}

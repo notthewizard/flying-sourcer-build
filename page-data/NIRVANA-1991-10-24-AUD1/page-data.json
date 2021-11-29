@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-10-24-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-10-24-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["ef532b9d97460d1f13803bc5c2c68d0f *Nirvana_1991-10-24_early_AUD1_48.flac"],"city":"San Diego, CA, USA","date":"1991-10-24","extractedBy":"","extraction":"","generation":"ANA(M) > WAV [48kHz] > FLAC [Level 8]","notes":["October 24, 1991","Off the Record","San Diego, CA, USA"],"source":{"name":"AUD #1","recordingEquipment":"built-in > unknown"},"surfaced":"October 27, 2011","times":["20:22"],"tracks":["intro","Dumb","Here She Comes Now","About A Girl","Polly","On A Plain","Been A Son"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > FLAC frontend 1.7.1","transferredBy":"Mike Ziegler","venue":"Off the Record","warnings":[]}}},
+    "staticQueryHashes": []}

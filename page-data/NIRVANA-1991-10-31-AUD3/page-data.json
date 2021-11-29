@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-10-31-AUD3",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-10-31-AUD3","recording":{"artist":"NIRVANA","authored":"","checksums":["641ca2f943c043f146a6ebe184e036ed *Nirvana_1991-10-31_AUD3_48.flac"],"city":"Seattle, WA, USA","date":"1991-10-31","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["October 31, 1991","Paramount Theatre","Seattle, WA, USA"],"source":{"name":"AUD #3","recordingEquipment":"unknown > unknown"},"surfaced":"April 23, 2017","times":["49:47"],"tracks":["Drain You","School","Floyd The Barber","jam","Smells Like Teen Spirit","About A Girl","Polly","Breed","Sliver (cuts in)","Love Buzz","Lithium","Been A Son","Negative Creep","On A Plain","Blew","Rape Me (cuts out)"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Paramount Theatre","warnings":[]}}},
+    "staticQueryHashes": []}

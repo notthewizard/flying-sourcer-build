@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-12-02-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-12-02-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["n.a."],"city":"Newcastle upon Tyne, United Kingdom","date":"1991-12-02","extractedBy":"","extraction":"","generation":"DAT(M) > ANA(1) > UNOFFICIAL 12\" [\"Entertain Us\"]","notes":["December 2, 1991","The Mayfair","Newcastle upon Tyne, United Kingdom"],"source":{"name":"AUD #1","recordingEquipment":"Sony ECM-909 > Sony TCD-D3"},"surfaced":"Unknown (Release Date)","times":["37:32"],"tracks":["Drain You","Lithium","Smells Like Teen Spirit","About A Girl","Breed","School","Sliver","Negative Creep","On A Plain","Blew","Jam"],"transferDetails":"","transferredBy":"","venue":"The Mayfair","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1990-03-12-AUD1a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1990-03-12-AUD1a","recording":{"artist":"NIRVANA","authored":"","checksums":["173750e6f5f6cab6455be30865a3475a *Nirvana_1990-03-12_AUD1a_48-24.flac"],"city":"Vancouver, BC, Canada","date":"1990-03-12","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz/24bit] > FLAC [Level 8]","notes":["March 12, 1990","The Town Pump","Vancouver, BC, Canada"],"source":{"name":"AUD #1a","recordingEquipment":"Aiwa > Aiwa"},"surfaced":"December 6, 2020","times":["43:13"],"tracks":["Love Buzz","Floyd The Barber","Scoff","Dive","Spank Thru","About A Girl","Sappy","School","Breed","Been A Son","Stain","Negative Creep","Blew"],"transferDetails":"Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"The Town Pump","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1990-03-12-AUD1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1990-03-12-AUD1b","recording":{"artist":"NIRVANA","authored":"","checksums":["e4ba0e91c3adcb7045d570384b750257 *Nirvana_1990-03-12_AUD1b_MP3.mp3"],"city":"Vancouver, BC, Canada","date":"1990-03-12","extractedBy":"","extraction":"","generation":"ANA(M) > MP3 [320kbps]","notes":["Has some digital errors during \"Love Buzz,\" during \"Floyd The Barber,\" and after \"Scoff.\""],"source":{"name":"AUD #1b","recordingEquipment":"Aiwa > Aiwa"},"surfaced":"April 6, 2006","times":["42:44"],"tracks":["Love Buzz (cut)","Floyd The Barber","Scoff","Dive","Spank Thru","About A Girl","Sappy","School","Breed","Been A Son","Stain","Negative Creep","Blew"],"transferDetails":"Kenwood KX-W6010 > VIA AC '97 > Audiograbber 1.81 (with LAME MP3 encoder)","transferredBy":"Mark Minkler","venue":"The Town Pump","warnings":[]}}},
+    "staticQueryHashes": []}

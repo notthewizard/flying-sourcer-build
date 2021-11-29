@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1993-01-23-AMT1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1993-01-23-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["8c97d1a620ff5c9df529aae8e636f312 *Nirvana_1993_01-23_AMT1_VHS(x)_48.flac"],"city":"Rio De Janeiro, Brazil","date":"1993-01-23","extractedBy":"","extraction":"","generation":"VHS(x) > WAV [48 kHz] > FLAC [Level 8]","notes":["This became INFERIOR to a AMT #1 [VHS(x)] transfer by Mike Ziegler in June 2017"],"source":{"name":"AMT #1","recordingEquipment":""},"surfaced":"September 29, 2015","times":["10:58"],"tracks":["Scentless Apprentice (cuts in)","Gallons Of Rubbing Alcohol Flow Through The Strip"],"transferDetails":"JVC SR-V10U > Custom Klotz RCA-out cables > M-Audio Delta Audiophile 192 analog-in > VirtualDub 1.9.11 > Adobe Audition CC 2015 > FLAC Frontend 1.7.1","transferredBy":"Pierre Leroy","venue":"Pra�a da Apoteose (Hollywood Rock Festival)","warnings":["This became INFERIOR to a AMT #1 [VHS(x)] transfer by Mike Ziegler in June 2017\r"]}}},
+    "staticQueryHashes": []}

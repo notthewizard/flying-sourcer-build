@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-08-23-PRO1c",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-08-23-PRO1c","recording":{"artist":"NIRVANA","authored":"","checksums":["1dadad4b14b96e0085dc2d34abb00ed7 *Nirvana 1991-08-23 PRO1c x264 AAC FLAC.mkv"],"city":"Reading, United Kingdom","date":"1991-08-23","extractedBy":"","extraction":"","generation":"VHS(X) > AVI [UtVideo/48khz/16-Bit/PCM] > MKV [480p/x264|AAC|FLAC]","notes":["August 23, 1991","Richfield Avenue (Reading Festival)","Reading, United Kingdom"],"source":{"name":"PRO #1c","recordingEquipment":"unknown > unknown"},"surfaced":"December 30, 2020","times":["5:19"],"tracks":["Come As You Are","Love Buzz"],"transferDetails":"Panasonic AG-1980 > Datavideo TBC6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.152.2851 ba24899 > MKVToolNix GUI v46.0.0","transferredBy":"","venue":"Richfield Avenue (Reading Festival)","warnings":[]}}},
+    "staticQueryHashes": []}

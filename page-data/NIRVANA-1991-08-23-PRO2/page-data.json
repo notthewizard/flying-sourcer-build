@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-08-23-PRO2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-08-23-PRO2","recording":{"artist":"NIRVANA","authored":"","checksums":["ac18454b5119154f0dbf11b93caf0e1e *SIDE 2\\02. NIRVANA - Endless nameless.flac"],"city":"Reading, United Kingdom","date":"1991-08-23","extractedBy":"","extraction":"","generation":"Official LD(1991 - The Year Punk Broke) -> WAV [44.1kHz] -> FLAC [Level 5]","notes":["Appears on an official compilation: '1991: The Year Punk Broke'"],"source":{"name":"PRO #2","recordingEquipment":""},"surfaced":"Unknown","times":[],"tracks":["Endless, Nameless"],"transferDetails":"PIONNER CLD 2850 -> OPTICAL CABLE -> SONY MZ-NH700 (HiMD) -> SONICSTAGE 4.3 -> CD WAVE 1.98 [FLAC LEVEL 5]","transferredBy":"Vincent LAINE.","venue":"Richfield Avenue (Reading Festival)","warnings":[]}}},
+    "staticQueryHashes": []}

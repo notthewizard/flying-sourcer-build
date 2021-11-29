@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-1991-09-20-AMT1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-1991-09-20-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["c93f6009a007984be45c40c12a70a3df *Nirvana_1991-09-20_AMT1_48.flac"],"city":"Toronto, ON, Canada","date":"1991-09-20","extractedBy":"","extraction":"","generation":"VHS(2) > WAV [48kHz] > FLAC [Level 8]","notes":["September 20, 1991","Opera House","Toronto, ON, Canada"],"source":{"name":"AMT #1","recordingEquipment":"built-in > Sony CCD-V5000"},"surfaced":"April 19, 2012","times":["58:15"],"tracks":["intro","Aneurysm","Drain You","Smells Like Teen Spirit","jam","Polly","School (cuts in)","Sliver","Floyd The Barber","About A Girl","Breed","Territorial Pissings","Pennyroyal Tea","Blew","Negative Creep","Been A Son","Something In The Way","Endless, Nameless (cuts out)"],"transferDetails":"JVC HR-S9911U > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"Opera House","warnings":[]}}},
+    "staticQueryHashes": []}
