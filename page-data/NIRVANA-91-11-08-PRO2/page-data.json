@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-11-08-PRO2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-11-08-PRO2","recording":{"artist":"NIRVANA","authored":"","checksums":["ef1914e9788308503939ffd633039282 *01 Smells Like Teen Spirit.flac"],"city":"London, United Kingdom","date":"91-11-08","extractedBy":"","extraction":"","generation":"TV > VHS(2) > AC3 [48kHz/448kbps] > WAV [96kHz] > FLAC [Level 8]","notes":["Originally labelled as PRO #1a but is PRO #2","Taken from the first broadcast."],"source":{"name":"PRO #2","recordingEquipment":"soundboard > unknown"},"surfaced":"Unknown","times":[],"tracks":["Smells Like Teen Spirit"],"transferDetails":"JVC HR-S7700 -> Datavideo TBC 1000 -> ATi AIW -> Adobe Premiere Pro 1.5 -> Sony DVD Architect 3.0 > Audacity v.1.2.6 > FLAC Frontend v.1.2.1","transferredBy":"Martin Donohoe.","venue":"Limehouse Studios (The Word)","warnings":[]}}},
+    "staticQueryHashes": []}

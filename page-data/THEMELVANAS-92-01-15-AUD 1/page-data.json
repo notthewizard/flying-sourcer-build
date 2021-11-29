@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/THEMELVANAS-92-01-15-AUD 1",
+    "result": {"pageContext":{"pagePath":"THEMELVANAS-92-01-15-AUD 1","recording":{"artist":"THE MELVANAS","authored":"","checksums":["a0a50dda208f5072c3e93230e994f1a8 *Nirvana-Related_1992-01-15_AUD1_48.flac"],"city":"Seattle, WA, USA","date":"92-01-15","extractedBy":"","extraction":"","generation":"ANA(M) > WAV [48kHz] > FLAC [Level 8]","notes":["Melvanas consisted of Buzz Osborne, Krist Novoselic and Dave Grohl"],"source":{"name":"AUD #1","recordingEquipment":"unknown > Aiwa HS-J400 MKII"},"surfaced":"April 23, 2017","times":["21:10"],"tracks":["Way Of The World","Sacrifice","Second Coming (part of)","The Ballad Of Dwight Fry","(I Saw You) Shine"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Crocodile Cafe","warnings":[]}}},
+    "staticQueryHashes": []}

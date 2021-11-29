@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-90-10-11-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-90-10-11-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["2445fa39c76f9bf14609c3d903109444 *Nirvana_1990-10-11_AUD1_48.flac"],"city":"Olympia, WA, USA","date":"90-10-11","extractedBy":"","extraction":"","generation":"ANA(M) > WAV [48kHz] > FLAC [Level 8]","notes":["October 11, 1990","North Shore Surf Club","Olympia, WA, USA"],"source":{"name":"AUD #1","recordingEquipment":"built-in > Sony"},"surfaced":"April 25, 2012","times":["71:47"],"tracks":["Son Of A Gun","Molly's Lips (part of)","D-7 (part of)","Blew","Negative Creep","Been A Son","Stain","Floyd The Barber","About A Girl","Spank Thru","School","Stay Away","Breed","Big Cheese","In Bloom","Dive","Love Buzz","Scoff","Sliver","Turnaround"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"North Shore Surf Club","warnings":[]}}},
+    "staticQueryHashes": []}

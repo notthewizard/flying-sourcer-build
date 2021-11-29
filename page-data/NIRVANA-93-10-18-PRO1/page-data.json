@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-93-10-18-PRO1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-93-10-18-PRO1","recording":{"artist":"NIRVANA","authored":"","checksums":["31a1682f79ba804a89dd5dbbeca35e25 *93-10-18 PRO #1 [VHS(x)-YouTube].mp4"],"city":"Phoenix, AZ, USA","date":"93-10-18","extractedBy":"PHS","extraction":"","generation":"VHS(x) -> YouTube -> MP4","notes":["This extraction from YouTube is inferior to a pre-YouTube transfer that surfaced December 12, 2020","Surfaced on YouTube: https://www.youtube.com/watch?v=TZXPq7iS9cc"],"source":{"name":"PRO #1","recordingEquipment":""},"surfaced":"June 1, 2020","times":["16:41"],"tracks":["Drain You","Serve The Servants","Sliver","Pennyroyal Tea","School"],"transferDetails":"Unknown -> YouTube -> JDownloader 2","transferredBy":"Alt Copperpot5","venue":"Veterans Memorial Coliseum (Arizona State Fair)","warnings":["This extraction from YouTube is inferior to a pre-YouTube transfer that surfaced December 12, 2020\r"]}}},
+    "staticQueryHashes": []}

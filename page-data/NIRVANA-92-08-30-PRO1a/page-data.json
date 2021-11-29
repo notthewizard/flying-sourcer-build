@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-92-08-30-PRO1a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-92-08-30-PRO1a","recording":{"artist":"NIRVANA","authored":"","checksums":["330f341a0fa8d78e913a7bd933faa046 *Nirvana 1992-08-30 PRO1a VHS x264 AAC FLAC.mkv"],"city":"Reading, United Kingdom","date":"92-08-30","extractedBy":"","extraction":"","generation":"VHS(x) > AVI [UtVideo/96khz/16-Bit/PCM] > MKV [576p/x264 | AAC | FLAC]","notes":["August 30, 1992","Richfield Avenue (Reading Festival)","Reading, United Kingdom"],"source":{"name":"PRO #1a","recordingEquipment":"unknown > unknown"},"surfaced":"November 1, 2020","times":["12:51"],"tracks":["Come As You Are","Lithium","In Bloom"],"transferDetails":"TravisBickle1963","transferredBy":"","venue":"Richfield Avenue (Reading Festival)","warnings":[]}}},
+    "staticQueryHashes": []}

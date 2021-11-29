@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-89-11-16-AUD2b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-89-11-16-AUD2b","recording":{"artist":"NIRVANA","authored":"","checksums":["77b3cd9831ff4cec1bf74b3b829e3076 *Nirvana_1989-11-16_AUD2b_48.flac"],"city":"N�rnberg, West Germany","date":"89-11-16","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [24bit/48kHz] > WAV [48kHz] > FLAC [Level 8]","notes":["\"Negative Creep\" cuts in due to a tape flip."],"source":{"name":"AUD #2b","recordingEquipment":"Aiwa CM-30A > Sony WM-D6"},"surfaced":"April 9, 2013","times":["50:42"],"tracks":["intro","School","Scoff","Love Buzz","Floyd The Barber","Dive","Sappy","Big Cheese","jam","About A Girl","Mr. Moustache","Breed","Been A Son","Negative Creep (cuts in)","Blew"],"transferDetails":"Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > Trader's Little Helper 2.4.1","transferredBy":"Daniel B�r","venue":"Trust","warnings":[]}}},
+    "staticQueryHashes": []}

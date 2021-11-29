@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-01-18-AMT1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-01-18-AMT1b","recording":{"artist":"NIRVANA","authored":"","checksums":["67061cf4e0d7accfa704b8ee6c46d830 *nirvana1991-01-18t01.flac"],"city":"Olympia, WA, USA","date":"91-01-18","extractedBy":"","extraction":"","generation":"VHS(1) -> TV -> VHS(3) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]","notes":["Big thanks to Todd Deines for providing the tape!"],"source":{"name":"AMT #1b","recordingEquipment":"unknown -> unknown"},"surfaced":"January 5, 2005","times":["3:12"],"tracks":["Breed"],"transferDetails":"Sony SLV-N55 VCR -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1","transferredBy":"Mike Ziegler.","venue":"The Evergreen State College (No More Wars Benefit)","warnings":[]}}},
+    "staticQueryHashes": []}

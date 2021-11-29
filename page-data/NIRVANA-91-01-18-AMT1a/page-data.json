@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-01-18-AMT1a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-01-18-AMT1a","recording":{"artist":"NIRVANA","authored":"","checksums":["fe26f7706795501b8cec297337a712a6 *Nirvana_1991-01-18_AMT1a_t01.flac"],"city":"Olympia, WA, USA","date":"91-01-18","extractedBy":"","extraction":"","generation":"VHS(1) -> mp3 [96kbps] -> WAV [44.1kHz] -> FLAC [Level 8]","notes":["January 18, 1991","Library 4300, The Evergreen State College (No More Wars Benefit)","Olympia, WA, USA"],"source":{"name":"AMT #1a","recordingEquipment":"unknown -> unknown"},"surfaced":"January 6, 2008","times":["3:29"],"tracks":["School"],"transferDetails":"","transferredBy":"unknown.","venue":"Library 4300, The Evergreen State College (No More Wars Benefit)","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-12-03-PRO1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-12-03-PRO1","recording":{"artist":"NIRVANA","authored":"","checksums":["afcedd877bc493cadd6e849dddc489d9 *Nirvana_1991-12-03_PRO1_48.flac"],"city":"Nottingham, United Kingdom","date":"91-12-03","extractedBy":"","extraction":"","generation":"TV > VHS(2) > AVI [PCM] > WAV [48kHz] > FLAC [Level 8]","notes":["December 3, 1991","Rock City","Nottingham, United Kingdom"],"source":{"name":"PRO #1","recordingEquipment":"soundboard > unknown"},"surfaced":"September 7, 2012","times":["6:48"],"tracks":["Drain You (cuts out)","Smells Like Teen Spirit (cuts out)","Lithium (cuts in, cuts out)","Sliver (cuts in, cuts out)","Come As You Are (cuts in, cuts out)","Been A Son (cuts out)"],"transferDetails":"JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Rock City","warnings":[]}}},
+    "staticQueryHashes": []}

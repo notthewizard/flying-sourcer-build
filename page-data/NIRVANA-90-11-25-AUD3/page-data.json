@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-90-11-25-AUD3",
+    "result": {"pageContext":{"pagePath":"NIRVANA-90-11-25-AUD3","recording":{"artist":"NIRVANA","authored":"","checksums":["c4bc5f36196f8c50e67fca3531a1d245 *Nirvana_1990-11-25_AUD3_48-24.flac"],"city":"Seattle, WA, USA","date":"90-11-25","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz/24bit] > FLAC [Level 8]","notes":["November 25, 1990","Off Ramp Cafe","Seattle, WA, USA"],"source":{"name":"AUD #3","recordingEquipment":"unknown > unknown"},"surfaced":"December 7, 2020","times":["46:59"],"tracks":["Stay Away","Breed","Floyd The Barber","About A Girl","In Bloom","Swap Meet","Been A Son","Stain","Blew","Lithium","School","D-7","Here She Comes Now","Sliver (cuts out)"],"transferDetails":"Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Off Ramp Cafe","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-89-11-26-AMT1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-89-11-26-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["f4d1837d1c13dc4015f09653486924e2 *Tad_Nirvana_1989-11-26_amt1-vhs1_48.flac"],"city":"Mezzago, Italy","date":"89-11-26","extractedBy":"","extraction":"","generation":"8MM(M) > VHS(1) > AVI [DV25] > WAV [48kHz] > FLAC [Level 8]","notes":["Transfer also contains TAD set (incl. the part with Kurt)"],"source":{"name":"AMT #1","recordingEquipment":"built-in > Sony CCD-F500 (Video8)"},"surfaced":"December 2, 2012","times":[],"tracks":["School","Love Buzz","Big Cheese (cuts in)","Negative Creep (cuts in, cuts out)"],"transferDetails":"JVC HRS-9500MS > Canopus ADVC-100 > Adobe Premiere CS5 > Adobe Audition 3.0 > FLAC Frontend 1.7.1","transferredBy":"Pierre Leroy","venue":"Bloom","warnings":[]}}},
+    "staticQueryHashes": []}

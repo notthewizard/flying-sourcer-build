@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-11-08-PRO3",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-11-08-PRO3","recording":{"artist":"NIRVANA","authored":"","checksums":["7ff1b98447d4ff3f14925cf6f5552f15 *Nirvana_1991-11-08_PRO3_TV-VHS2_t01.flac"],"city":"London, United Kingdom","date":"91-11-08","extractedBy":"","extraction":"","generation":"TV -> VHS(2) -> AVI [HuffYUV] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]","notes":["November 8, 1991","Limehouse Studios (The Word)","London, United Kingdom"],"source":{"name":"PRO #3","recordingEquipment":"soundboard -> unknown"},"surfaced":"September 22, 2013","times":["04:08"],"tracks":["Smells Like Teen Spirit (cuts in, cut)"],"transferDetails":"JVC HR-S7700 -> Datavideo TBC 1000 -> ATI AIW -> Adobe Premiere Pro 1.5 -> Adobe Audition 3.0 -> Flac Frontend 1.7.1","transferredBy":"Francisco Ortiz","venue":"Limehouse Studios (The Word)","warnings":[]}}},
+    "staticQueryHashes": []}

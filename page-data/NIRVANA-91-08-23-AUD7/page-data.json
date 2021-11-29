@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-08-23-AUD7",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-08-23-AUD7","recording":{"artist":"NIRVANA","authored":"","checksums":["2405d22597275c574b08375263cdb1f1 *NIRVANA - 91-08-23 AUD #7 [ANA(x)-YouTube].m4a"],"city":"Reading, United Kingdom","date":"91-08-23","extractedBy":"PHS","extraction":"September 9, 2021","generation":"ANA(x) -> YouTube -> M4A","notes":["Posted on YouTube: https://www.youtube.com/watch?v=F8ihJn5OF-I"],"source":{"name":"AUD #7","recordingEquipment":""},"surfaced":"","times":["37:43"],"tracks":["School","Floyd The Barber","Drain You","Smells Like Teen Spirit","Come As You Are","Breed","Sliver","Molly's Lips","Love Buzz","Negative Creep","The End (jam)","Blew","Endless, Nameless"],"transferDetails":"Unknown -> YouTube -> JDownloader 2","transferredBy":"DO.THE.MOOZIK!","venue":"Richfield Avenue (Reading Festival)","warnings":[]}}},
+    "staticQueryHashes": []}

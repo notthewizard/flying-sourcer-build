@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-12-05-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-12-05-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["e5b9d1b89205c7720b081ef017edd594 *Nirvana_1991-12-05_AUD1_48.flac"],"city":"London, United Kingdom","date":"91-12-05","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["December 5, 1991","Kilburn National Ballroom","London, United Kingdom"],"source":{"name":"AUD #1","recordingEquipment":"unknown > Sony WM-D6"},"surfaced":"July 10, 2013","times":["56:46"],"tracks":["intro","Drain You","Aneurysm","School","Floyd The Barber","Smells Like Teen Spirit","About A Girl","Polly","L'Amour Est Un Oiseau Rebelle (jam)","Sliver","Lithium","Breed","Been A Son","Negative Creep","On A Plain","Blew","Molly's Lips","Territorial Pissings"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Kilburn National Ballroom","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-90-04-17-PRO1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-90-04-17-PRO1","recording":{"artist":"NIRVANA","authored":"","checksums":["6576b0f7e625eb68b4fd423349878c8e *Nirvana 1990-04-17 VHS1 AAC FLAC x264.mkv"],"city":"Montréal, QC, Canada","date":"90-04-17","extractedBy":"","extraction":"","generation":"VHS(1) > AVI [HuffYUV/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]","notes":["April 17, 1990","Foufounes Électriques","Montréal, QC, Canada"],"source":{"name":"PRO #1","recordingEquipment":"unknown > unknown"},"surfaced":"September 22, 2018","times":["11.05"],"tracks":["Floyd The Barber","Love Buzz [Shocking Blue cover]","Dive","Scoff"],"transferDetails":"JVC HR-S7900U SVHS > Datavideo TBC-1000 > ATI TV Wonder 600 USB > VirtualDub > flac.exe & Apple AAC encoder q109","transferredBy":"","venue":"Foufounes Électriques","warnings":[]}}},
+    "staticQueryHashes": []}

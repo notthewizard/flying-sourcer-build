@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-92-09-11-PRO1a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-92-09-11-PRO1a","recording":{"artist":"NIRVANA","authored":"","checksums":["689635b262bf1f3ff15f4f2750b34ad2 *Nirvana_1992-09-11_PRO1a_t01.flac","0d21cfbb1c390ad6c9699dd63531a73d *Nirvana_1992-09-11_PRO1a_t02.flac","bc3016f2ca9944937a0fcd467a26a12d *Nirvana_1992-09-11_PRO1a_t03.flac","d36e35bd54366bd5bdf8186dcf4b44c0 *Nirvana_1992-09-11_PRO1a_t04.flac"],"city":"Seattle, WA, USA","date":"92-09-11","extractedBy":"","extraction":"","generation":"VHS(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]","notes":["Has some minor static from the source tape."],"source":{"name":"PRO #1a","recordingEquipment":"soundboard > unknown"},"surfaced":"January 24, 2006","times":["12:13"],"tracks":["intro","Breed","Drain You","Aneurysm"],"transferDetails":"JVC HR-S9911U > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.8 > FLAC frontend 1.7.1","transferredBy":"Kris Sproul","venue":"Seattle Center Coliseum (Washington Music Industry Coalition Benefit)","warnings":[]}}},
+    "staticQueryHashes": []}

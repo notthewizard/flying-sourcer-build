@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-10-17-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-10-17-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["26964120d4cec51145d0d97b1c87e845 *Nirvana_1991-10-17_AUD1_96-24.flac"],"city":"Lawrence, KS, USA","date":"91-10-17","extractedBy":"","extraction":"","generation":"ANA(M) > WAV [96kHz/24bit] > FLAC [Level 8]","notes":["October 17, 1991","Kansas Union Ballroom, The University of Kansas","Lawrence, KS, USA"],"source":{"name":"AUD #1","recordingEquipment":"Sony > Sony"},"surfaced":"December 6, 2020","times":["45:01"],"tracks":["intro","Jesus Wants Me For A Sunbeam","Aneurysm","Drain You","School","Floyd The Barber","Smells Like Teen Spirit","About A Girl","Breed","Polly","Sliver","Love Buzz","Curmudgeon","Lithium"],"transferDetails":"Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Kansas Union Ballroom, The University of Kansas","warnings":[]}}},
+    "staticQueryHashes": []}

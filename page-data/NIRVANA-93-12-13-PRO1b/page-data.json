@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-93-12-13-PRO1b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-93-12-13-PRO1b","recording":{"artist":"NIRVANA","authored":"","checksums":["7cd954ebdc2fef145317dbfad5f191dd *Nirvana_1993-12-13_late_PRO1x_48.flac"],"city":"Seattle, WA, USA","date":"93-12-13","extractedBy":"","extraction":"","generation":"TV > VHS(1) > WAV [48kHz] > FLAC [Level 8]","notes":["December 13, 1993","Pier 48 (MTV Live and Loud)","Seattle, WA, USA"],"source":{"name":"PRO #1b","recordingEquipment":"soundboard > unknown"},"surfaced":"December 24, 2011","times":["40:47"],"tracks":["Radio Friendly Unit Shifter","Drain You","Breed","Serve The Servants","Rape Me","Heart-Shaped Box","Pennyroyal Tea","Scentless Apprentice","Lithium","jam"],"transferDetails":"JVC HR-S9500 > Canopus ADVC55 > IEEE 1394 > Adobe Premiere Pro 2.0 > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"Pier 48 (MTV Live and Loud)","warnings":[]}}},
+    "staticQueryHashes": []}

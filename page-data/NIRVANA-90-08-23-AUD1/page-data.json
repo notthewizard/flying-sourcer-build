@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-90-08-23-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-90-08-23-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["c146a4e920a3ddeba259c1f6d14c3a72 *Nirvana_1990-08-23_AUD1_48.flac"],"city":"Portland, OR, USA","date":"90-08-23","extractedBy":"","extraction":"","generation":"ANA(M) > WAV [48kHz] > FLAC [Level 8]","notes":["\"School\" is cut due to a tape flip."],"source":{"name":"AUD #1","recordingEquipment":"built-in > unknown"},"surfaced":"April 4, 2010","times":["42:19"],"tracks":["jam (cuts in)","Love Buzz","Floyd The Barber","Scoff","Dive","In Bloom","Spank Thru","About A Girl","School (cut)","Lithium","Been A Son","Negative Creep","Blew"],"transferDetails":"Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > FLAC frontend 1.7.1","transferredBy":"Kris Sproul","venue":"Melody Ballroom","warnings":[]}}},
+    "staticQueryHashes": []}

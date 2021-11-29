@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-09-23-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-09-23-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["da27fa213056c562f204361f69fa1e24 *Nirvana_1991-09-23_AUD1_48.flac"],"city":"Boston, MA, USA","date":"91-09-23","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["September 23, 1991","Axis Nightclub (WFNX Birthday Bash)","Boston, MA, USA"],"source":{"name":"AUD #1","recordingEquipment":"unknown > unknown"},"surfaced":"November 16, 2011","times":["48:53"],"tracks":["intro","Aneurysm","Drain You","School","Smells Like Teen Spirit","Come As You Are","Sliver","Jesus Wants Me For A Sunbeam","Floyd The Barber","Polly","About A Girl","Breed","Rape Me","Blew","Been A Son (cuts in)","Negative Creep"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > FLAC frontend 1.7.1","transferredBy":"Mike Ziegler","venue":"Axis Nightclub (WFNX Birthday Bash)","warnings":[]}}},
+    "staticQueryHashes": []}

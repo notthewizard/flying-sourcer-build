@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-88-12-21-AMT1a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-88-12-21-AMT1a","recording":{"artist":"NIRVANA","authored":"","checksums":["65bce75825989df62156d3b05fa81523 *Nirvana_1988-12-21_AMT1a_48.flac"],"city":"Hoquiam, WA, USA","date":"88-12-21","extractedBy":"","extraction":"","generation":"VHS(x) > WAV [48kHz] > FLAC [Level 8]","notes":["Has dropouts in various songs."],"source":{"name":"AMT #1a","recordingEquipment":"unknown > unknown"},"surfaced":"July 13, 2012","times":["41:13"],"tracks":["intro","School","Love Buzz (cut)","Floyd The Barber","Mr. Moustache","Paper Cuts (cuts in)","Mexican Seafood","Spank Thru","Aero Zeppelin","Sifting (cuts out)"],"transferDetails":"JVC HR-S9911U > Sony DCR-TRV25 > IEEE 1394 > Sonic Foundry Vegas 5.0 > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"Eagles Hall/FoE Aerie 252","warnings":[]}}},
+    "staticQueryHashes": []}

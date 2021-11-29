@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-93-08-06-AUDCLIP 1a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-93-08-06-AUDCLIP 1a","recording":{"artist":"NIRVANA","authored":"","checksums":["90429fb8cc2948c8de6e50123e63724a *nirvana1993-08-06t01.flac"],"city":"Seattle, WA, USA","date":"93-08-06","extractedBy":"Pieter Vermeulen.","extraction":"Adobe Audition 1.5 -> FLAC Frontend 1.7.1","generation":"UNKNOWN -> MP3 [48 Kbps] -> WAV [44.1kHz] -> FLAC","notes":["August 6, 1993","King Performance Center (Mia Zapata Fund Benefit)","Seattle, WA, USA"],"source":{"name":"AUD CLIP #1a","recordingEquipment":"unknown -> unknown"},"surfaced":"Unknown","times":["0:50"],"tracks":["Men In Hats (Jam)","Safety Dance  (clip)"],"transferDetails":"","transferredBy":"","venue":"King Performance Center (Mia Zapata Fund Benefit)","warnings":[]}}},
+    "staticQueryHashes": []}

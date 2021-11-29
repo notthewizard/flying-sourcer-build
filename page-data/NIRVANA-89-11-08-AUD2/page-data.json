@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-89-11-08-AUD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-89-11-08-AUD2","recording":{"artist":"NIRVANA","authored":"","checksums":["574d886f91c997ea7d46d261bafb4e36 *11-08-89 48khz side a.flac","5da6dd8775263168ca2c8b8d88d50f5e *11-08-89 48khz side b.flac"],"city":"Cologne, West Germany","date":"89-11-08","extractedBy":"","extraction":"","generation":"ANA(x) -> WAV [48kHz] -> FLAC [Level 8]","notes":["November 8, 1989","Rose Club","Cologne, West Germany"],"source":{"name":"AUD #2","recordingEquipment":"Unknown -> Unknown"},"surfaced":"January 25, 2010","times":["63:48"],"tracks":["intro (cut)","School","Scoff","jam","Love Buzz","Floyd The Barber","Dive","Polly","Big Cheese","About A Girl","Spank Thru","Mr. Moustache","Even In His Youth","Breed","Negative Creep","Been A Son","Blew","Vendetagainst"],"transferDetails":"Nakamichi DR-3 -> DAR Audio RCA cable -> Realtek ALC880 -> Adobe Audition 3.0 -> CD Wave 1.93.0 -> Trader's Little Helper","transferredBy":"Gregory Hecquet","venue":"Rose Club","warnings":[]}}},
+    "staticQueryHashes": []}

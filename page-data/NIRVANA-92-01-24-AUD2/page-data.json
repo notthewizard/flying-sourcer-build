@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-92-01-24-AUD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-92-01-24-AUD2","recording":{"artist":"NIRVANA","authored":"","checksums":["a9185b41fec49aae946a4648b284eb8e *Nirvana_1992-01-24_AUD2_48.flac"],"city":"Sydney, Australia","date":"92-01-24","extractedBy":"","extraction":"","generation":"DAT(M) > ANA(2) > WAV [48kHz] > FLAC [Level 8]","notes":["January 24, 1992","Phoenician Club","Sydney, Australia"],"source":{"name":"AUD #2","recordingEquipment":"Sonic Studios DSM-3 > Sony TCD-D3"},"surfaced":"December 15, 2011","times":["3:15"],"tracks":["intro","Aneurysm (cuts in, cut)","Drain You (cut, cuts out)"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"Phoenician Club","warnings":[]}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-91-11-25-PRO3b",
+    "result": {"pageContext":{"pagePath":"NIRVANA-91-11-25-PRO3b","recording":{"artist":"NIRVANA","authored":"","checksums":["e94cfcfa75702fa40f69251d3f7a7a91 *Nirvana_1991-11-25_late_PRO3b_48.flac"],"city":"Amsterdam, The Netherlands","date":"91-11-25","extractedBy":"","extraction":"","generation":"VHS(1) > AVI [PCM] > WAV [48kHz] > FLAC [Level 8]","notes":["November 25, 1991","Paradiso","Amsterdam, The Netherlands"],"source":{"name":"PRO #3b","recordingEquipment":"soundboard > unknown"},"surfaced":"April 12, 2012","times":["61:28"],"tracks":["intro","Drain You","Aneurysm","School","Floyd The Barber","Smells Like Teen Spirit","About A Girl","Polly","Lithium","Sliver","Breed","Come As You Are","Been A Son","Negative Creep","On A Plain","Blew","Love Buzz","Territorial Pissings"],"transferDetails":"JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"Paradiso","warnings":[]}}},
+    "staticQueryHashes": []}

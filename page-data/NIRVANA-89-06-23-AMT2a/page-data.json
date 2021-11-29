@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-89-06-23-AMT2a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-89-06-23-AMT2a","recording":{"artist":"NIRVANA","authored":"","checksums":["5f4341a2d7e8770f287b200f62455f7e *Nirvana_1989-06-23_early_AMT2a_48.flac"],"city":"Los Angeles, CA, USA","date":"89-06-23","extractedBy":"","extraction":"","generation":"VHS(x) > WAV [48kHz] > FLAC [Level 8]","notes":["This is INFERIOR to the AMT #2 [VHS(1)-FLAC] that surfaced in April 2018","The sound gets choppy for a few seconds at the end of \"Love Buzz.\""],"source":{"name":"AMT #2a","recordingEquipment":"unknown > unknown"},"surfaced":"January 14, 2006","times":["17:52"],"tracks":["Love Buzz (cuts in, cut)","Big Cheese (cuts in, cut)","About A Girl (cuts in, cut)","Sifting (cuts in, cut)","Spank Thru (cuts in)","Dive (cuts in)"],"transferDetails":"JVC HR-S9911U > Echo Layla24 > Adobe Audition 1.5 > FLAC frontend 1.7.1","transferredBy":"Kris Sproul","venue":"Rhino Records Westwood","warnings":["This is INFERIOR to the AMT #2 [VHS(1)-FLAC] that surfaced in April 2018\r"]}}},
+    "staticQueryHashes": []}

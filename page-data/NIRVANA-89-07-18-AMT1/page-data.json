@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-89-07-18-AMT1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-89-07-18-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["0bb7c5fcd7dd7449ca53b47015ddf4fd *Nirvana 1989-07-18 AMT1 Video8 x264 AAC FLAC.mkv"],"city":"New York, NY, USA","date":"89-07-18","extractedBy":"","extraction":"","generation":"Video8(M) > AVI [UtVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]","notes":["July 18, 1989","Pyramid Club (New Music Seminar)","New York, NY, USA"],"source":{"name":"AMT #1","recordingEquipment":"unknown > unknown"},"surfaced":"October 9, 2020","times":["32:10"],"tracks":["School","Floyd The Barber","Love Buzz","Dive (cuts in)","Polly","Big Cheese","Scoff (cuts in)","About A Girl (cuts in)","Blew"],"transferDetails":"Sony DCR-TRV730 > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > flac.exe & Apple AAC encoder q109","transferredBy":"","venue":"Pyramid Club (New Music Seminar)","warnings":[]}}},
+    "staticQueryHashes": []}

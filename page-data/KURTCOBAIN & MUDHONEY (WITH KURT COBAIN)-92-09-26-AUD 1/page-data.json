@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/KURTCOBAIN & MUDHONEY (WITH KURT COBAIN)-92-09-26-AUD 1",
+    "result": {"pageContext":{"pagePath":"KURTCOBAIN & MUDHONEY (WITH KURT COBAIN)-92-09-26-AUD 1","recording":{"artist":"KURT COBAIN & MUDHONEY (WITH KURT COBAIN)","authored":"","checksums":["ae0ef648003eaa4adb37d1988a02c4d0 *Nirvana-Related_1992-09-26_AUD1_96-24.flac"],"city":"Castaic, CA, USA","date":"92-09-26","extractedBy":"","extraction":"","generation":"ANA(M) > WAV [96kHz/24bit] > FLAC [Level 8]","notes":["September 26, 1992","Castaic Lake Amphitheatre","Castaic, CA, USA"],"source":{"name":"AUD #1","recordingEquipment":"Sony ECM-909 > Sony WM-D6"},"surfaced":"December 6, 2020","times":["6:04"],"tracks":["Where Did You Sleep Last Night (Kurt solo)","The Money Will Roll Right In (Mudhoney with Kurt)"],"transferDetails":"Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Castaic Lake Amphitheatre","warnings":[]}}},
+    "staticQueryHashes": []}

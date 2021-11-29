@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-90-09-22-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-90-09-22-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["21b40324f7986c2708327d6d0965208a *Nirvana_1990-09-22_AUD1_48.flac"],"city":"Seattle, WA, USA","date":"90-09-22","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["September 22, 1990","Motor Sports International and Garage","Seattle, WA, USA"],"source":{"name":"AUD #1","recordingEquipment":"unknown > unknown"},"surfaced":"April 23, 2017","times":["50:40"],"tracks":["Stay Away","Blew","Been A Son","Negative Creep","Floyd The Barber","About A Girl (cut)","School","Love Buzz","Breed","In Bloom","Scoff","Spank Thru","Sliver","Dive","jam"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"Motor Sports International and Garage","warnings":[]}}},
+    "staticQueryHashes": []}

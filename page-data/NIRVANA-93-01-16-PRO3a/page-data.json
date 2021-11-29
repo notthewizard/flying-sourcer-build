@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-93-01-16-PRO3a",
+    "result": {"pageContext":{"pagePath":"NIRVANA-93-01-16-PRO3a","recording":{"artist":"NIRVANA","authored":"","checksums":["d12677f254af57ddc68c3ba23cfaaa5a *Nirvana_011693_PRO#3a.mkv"],"city":"São Paulo, Brasil","date":"93-01-16","extractedBy":"","extraction":"","generation":"MASTER > BETA(1) > MOV [DVC-PRO 50/48khz/16-Bit/PCM] > MKV [480p/2.3Mbps/H.264 | AAC/256kbps/Mono | FLAC/Mono]","notes":["Because of the distance from the band to the camera, the audio appears a bit out of sync. A custom audio sync of -200ms will correct this."],"source":{"name":"PRO #3a","recordingEquipment":"built-in > unknown (Betacam)"},"surfaced":"January 16, 2020","times":["10:22"],"tracks":["School","Drain You","Breed"],"transferDetails":"unknown > Adobe Audition CC 2017 > flac.exe & Apple AAC encoder q109","transferredBy":"Anonymous","venue":"Estádio Cícero Pompeu de Toledo (Hollywood Rock Festival)","warnings":[]}}},
+    "staticQueryHashes": []}

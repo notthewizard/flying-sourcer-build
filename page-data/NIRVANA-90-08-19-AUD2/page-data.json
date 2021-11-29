@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-90-08-19-AUD2",
+    "result": {"pageContext":{"pagePath":"NIRVANA-90-08-19-AUD2","recording":{"artist":"NIRVANA","authored":"","checksums":["29417b46ac8b24a2deba458060f8b6b4 *Nirvana_1990-08-19_AUD2_48-24.flac"],"city":"San Diego, CA, USA","date":"90-08-19","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz/24bit] > FLAC [Level 8]","notes":["August 19, 1990","The Casbah","San Diego, CA, USA"],"source":{"name":"AUD #2","recordingEquipment":"unknown > Marantz"},"surfaced":"December 6, 2020","times":["64:16"],"tracks":["intro","In Bloom","Floyd The Barber","Love Buzz","Dive","School","TV Eye (jam)","Big Cheese","About A Girl","Stay Away","Lithium (part of)","Scoff","Spank Thru","Been A Son","Stain","Negative Creep (cuts in)","Blew","Eye Flys (jam)","Verse Chorus Verse"],"transferDetails":"Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0","transferredBy":"Mike Ziegler","venue":"The Casbah","warnings":[]}}},
+    "staticQueryHashes": []}

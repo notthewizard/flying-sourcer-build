@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recording-template-js",
+    "path": "/NIRVANA-89-11-16-AUD1",
+    "result": {"pageContext":{"pagePath":"NIRVANA-89-11-16-AUD1","recording":{"artist":"NIRVANA","authored":"","checksums":["e28a76148ceb435b87eb3858217e4279 *Nirvana_1989-11-16_AUD1_48.flac"],"city":"Nürnberg, West Germany","date":"89-11-16","extractedBy":"","extraction":"","generation":"ANA(1) > WAV [48kHz] > FLAC [Level 8]","notes":["November 16, 1989","Trust","Nürnberg, West Germany"],"source":{"name":"AUD #1","recordingEquipment":"unknown > unknown"},"surfaced":"June 28, 2012","times":["44:44"],"tracks":["Scoff","Love Buzz","Floyd The Barber","Dive","Sappy","Big Cheese","jam (cut)","About A Girl","Mr. Moustache","Breed","Been A Son","Negative Creep","Blew (cuts out)"],"transferDetails":"Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.6.0","transferredBy":"Mike Ziegler","venue":"Trust","warnings":[]}}},
+    "staticQueryHashes": []}
