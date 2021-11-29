@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1990-02-09-SBD2a",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1990-02-09-SBD2a","recording":{"artist":"NIRVANA","authored":"","checksums":["n.a."],"city":"Portland, OR, USA","date":"1990-02-09","extractedBy":"","extraction":"","generation":"Official CDS(Sliver)","notes":["February 9, 1990","Pine Street Theatre","Portland, OR, USA"],"source":{"name":"SBD #2a","recordingEquipment":"Soundboard > unknown"},"surfaced":"September, 1990 (Release date)","times":[],"tracks":["Spank Thru","About A Girl"],"transferDetails":"","transferredBy":"","venue":"Pine Street Theatre","warnings":[]}}},
+    "path": "/Nirvana-1990-02-09-SBD2a",
+    "result": {"pageContext":{"pagePath":"Nirvana-1990-02-09-SBD2a","recording":{"artist":"Nirvana","authored":"","checksums":["n.a."],"city":"Portland, OR, USA","date":"1990-02-09","extractedBy":"","extraction":"","generation":"Official CDS(Sliver)","notes":["February 9, 1990","Pine Street Theatre","Portland, OR, USA"],"source":{"name":"SBD #2a","recordingEquipment":"Soundboard > unknown"},"surfaced":"September, 1990 (Release date)","times":[],"tracks":["Spank Thru","About A Girl"],"transferDetails":"","transferredBy":"","venue":"Pine Street Theatre","warnings":[]}}},
     "staticQueryHashes": []}

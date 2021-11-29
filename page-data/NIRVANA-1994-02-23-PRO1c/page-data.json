@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1994-02-23-PRO1c",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1994-02-23-PRO1c","recording":{"artist":"NIRVANA","authored":"","checksums":["c2ca2ef525eddd4c1149747e0052f5c7 *Dumb (2) (1).mkv"],"city":"Rome, Italy","date":"1994-02-23","extractedBy":"","extraction":"","generation":"TV > VHS(1) > mpeg2/wav (8Mbps CBR/48kHz PCM)","notes":["February 23, 1994","RAI Centro di Produzione TV Studi Nomentano (Tunnel)","Rome, Italy"],"source":{"name":"PRO #1c","recordingEquipment":""},"surfaced":"September 21, 2018","times":[],"tracks":["Dumb"],"transferDetails":"","transferredBy":"Maurizio Reggio","venue":"RAI Centro di Produzione TV Studi Nomentano (Tunnel)","warnings":[]}}},
+    "path": "/Nirvana-1994-02-23-PRO1c",
+    "result": {"pageContext":{"pagePath":"Nirvana-1994-02-23-PRO1c","recording":{"artist":"Nirvana","authored":"","checksums":["c2ca2ef525eddd4c1149747e0052f5c7 *Dumb (2) (1).mkv"],"city":"Rome, Italy","date":"1994-02-23","extractedBy":"","extraction":"","generation":"TV > VHS(1) > mpeg2/wav (8Mbps CBR/48kHz PCM)","notes":["February 23, 1994","RAI Centro di Produzione TV Studi Nomentano (Tunnel)","Rome, Italy"],"source":{"name":"PRO #1c","recordingEquipment":""},"surfaced":"September 21, 2018","times":[],"tracks":["Dumb"],"transferDetails":"","transferredBy":"Maurizio Reggio","venue":"RAI Centro di Produzione TV Studi Nomentano (Tunnel)","warnings":[]}}},
     "staticQueryHashes": []}

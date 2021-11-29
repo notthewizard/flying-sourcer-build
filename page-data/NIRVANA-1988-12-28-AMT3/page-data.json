@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1988-12-28-AMT3",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1988-12-28-AMT3","recording":{"artist":"NIRVANA","authored":"","checksums":["b061c8dfb3b50549cab1e49ee948da37 *1988-12-28_AMT3_t01_Floyd The Barber.flac"],"city":"Seattle, WA, USA","date":"1988-12-28","extractedBy":"","extraction":"","generation":"VHS(X) > MP4 > FLAC","notes":["single cam AMT shot with soundboard audio"],"source":{"name":"AMT #3","recordingEquipment":"unknown > unknown"},"surfaced":"May 14, 2020","times":[],"tracks":["Floyd The Barber"],"transferDetails":"","transferredBy":"Unknown","venue":"The Underground (Sub Pop 200 Record Release Party)","warnings":[]}}},
+    "path": "/Nirvana-1988-12-28-AMT3",
+    "result": {"pageContext":{"pagePath":"Nirvana-1988-12-28-AMT3","recording":{"artist":"Nirvana","authored":"","checksums":["b061c8dfb3b50549cab1e49ee948da37 *1988-12-28_AMT3_t01_Floyd The Barber.flac"],"city":"Seattle, WA, USA","date":"1988-12-28","extractedBy":"","extraction":"","generation":"VHS(X) > MP4 > FLAC","notes":["single cam AMT shot with soundboard audio"],"source":{"name":"AMT #3","recordingEquipment":"unknown > unknown"},"surfaced":"May 14, 2020","times":[],"tracks":["Floyd The Barber"],"transferDetails":"","transferredBy":"Unknown","venue":"The Underground (Sub Pop 200 Record Release Party)","warnings":[]}}},
     "staticQueryHashes": []}

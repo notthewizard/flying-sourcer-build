@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1992-08-30-AUD1b",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1992-08-30-AUD1b","recording":{"artist":"NIRVANA","authored":"","checksums":["n.a."],"city":"Reading, United Kingdom","date":"1992-08-30","extractedBy":"","extraction":"","generation":"Unofficial CD(Outcesticide III - The Final Solution)","notes":["August 30, 1992","Richfield Avenue (Reading Festival)","Reading, United Kingdom"],"source":{"name":"AUD #1b","recordingEquipment":""},"surfaced":"Unknown (Release Date)","times":[],"tracks":["tourette's","The Money Will Roll Right In"],"transferDetails":"","transferredBy":"","venue":"Richfield Avenue (Reading Festival)","warnings":[]}}},
+    "path": "/Nirvana-1992-08-30-AUD1b",
+    "result": {"pageContext":{"pagePath":"Nirvana-1992-08-30-AUD1b","recording":{"artist":"Nirvana","authored":"","checksums":["n.a."],"city":"Reading, United Kingdom","date":"1992-08-30","extractedBy":"","extraction":"","generation":"Unofficial CD(Outcesticide III - The Final Solution)","notes":["August 30, 1992","Richfield Avenue (Reading Festival)","Reading, United Kingdom"],"source":{"name":"AUD #1b","recordingEquipment":""},"surfaced":"Unknown (Release Date)","times":[],"tracks":["tourette's","The Money Will Roll Right In"],"transferDetails":"","transferredBy":"","venue":"Richfield Avenue (Reading Festival)","warnings":[]}}},
     "staticQueryHashes": []}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1991-12-31-AMT1",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1991-12-31-AMT1","recording":{"artist":"NIRVANA","authored":"","checksums":["863ae8f9899451761aa1ab97100695b7 *Nirvana - Territorial Pissings - live 12-31-91 - (AMT #1).mpg","","TRANSFERRED BY:","Tobias Ritter"],"city":"Daly City, CA, USA","date":"1991-12-31","extractedBy":"","extraction":"","generation":"VID(2) -> DVDR(1)","notes":["December 31, 1991","Cow Palace","Daly City, CA, USA"],"source":{"name":"AMT #1","recordingEquipment":""},"surfaced":"March 31, 2011","times":[],"tracks":["Territorial Pissings (cuts in slightly)"],"transferDetails":"","transferredBy":"Tobias Ritter","venue":"Cow Palace","warnings":[]}}},
+    "path": "/Nirvana-1991-12-31-AMT1",
+    "result": {"pageContext":{"pagePath":"Nirvana-1991-12-31-AMT1","recording":{"artist":"Nirvana","authored":"","checksums":["863ae8f9899451761aa1ab97100695b7 *Nirvana - Territorial Pissings - live 12-31-91 - (AMT #1).mpg","","TRANSFERRED BY:","Tobias Ritter"],"city":"Daly City, CA, USA","date":"1991-12-31","extractedBy":"","extraction":"","generation":"VID(2) -> DVDR(1)","notes":["December 31, 1991","Cow Palace","Daly City, CA, USA"],"source":{"name":"AMT #1","recordingEquipment":""},"surfaced":"March 31, 2011","times":[],"tracks":["Territorial Pissings (cuts in slightly)"],"transferDetails":"","transferredBy":"Tobias Ritter","venue":"Cow Palace","warnings":[]}}},
     "staticQueryHashes": []}

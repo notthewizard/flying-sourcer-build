@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1993-12-10-PROCLIP 1c",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1993-12-10-PROCLIP 1c","recording":{"artist":"NIRVANA","authored":"","checksums":["7fabcaf0d27a1355b3a4a82a5bf019f8 *1993-12-10_DrainYouClip.mkv"],"city":"Saint Paul, MN, USA","date":"1993-12-10","extractedBy":"","extraction":"","generation":"VHS(x) -> MKV","notes":["December 10, 1993","Roy Wilkins Auditorium","Saint Paul, MN, USA"],"source":{"name":"PRO CLIP #1c","recordingEquipment":""},"surfaced":"August 22, 2018","times":[],"tracks":["Drain You"],"transferDetails":"Unknown","transferredBy":"SK","venue":"Roy Wilkins Auditorium","warnings":[]}}},
+    "path": "/Nirvana-1993-12-10-PROCLIP 1c",
+    "result": {"pageContext":{"pagePath":"Nirvana-1993-12-10-PROCLIP 1c","recording":{"artist":"Nirvana","authored":"","checksums":["7fabcaf0d27a1355b3a4a82a5bf019f8 *1993-12-10_DrainYouClip.mkv"],"city":"Saint Paul, MN, USA","date":"1993-12-10","extractedBy":"","extraction":"","generation":"VHS(x) -> MKV","notes":["December 10, 1993","Roy Wilkins Auditorium","Saint Paul, MN, USA"],"source":{"name":"PRO CLIP #1c","recordingEquipment":""},"surfaced":"August 22, 2018","times":[],"tracks":["Drain You"],"transferDetails":"Unknown","transferredBy":"SK","venue":"Roy Wilkins Auditorium","warnings":[]}}},
     "staticQueryHashes": []}

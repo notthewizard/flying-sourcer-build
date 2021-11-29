@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1992-06-22-PROCLIP 1b",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1992-06-22-PROCLIP 1b","recording":{"artist":"NIRVANA","authored":"","checksums":["June 22, 1992","King's Hall","Belfast, United Kingdom"],"city":"Belfast, United Kingdom","date":"1992-06-22","extractedBy":"","extraction":"","generation":"Unknown -> MKV","notes":["June 22, 1992","King's Hall","Belfast, United Kingdom"],"source":{"name":"PRO CLIP #1b","recordingEquipment":""},"surfaced":"August 22, 2018","times":[],"tracks":["Polly (clip)","Blew (clip)"],"transferDetails":"","transferredBy":"Simon Kilmore","venue":"King's Hall","warnings":[]}}},
+    "path": "/Nirvana-1992-06-22-PROCLIP 1b",
+    "result": {"pageContext":{"pagePath":"Nirvana-1992-06-22-PROCLIP 1b","recording":{"artist":"Nirvana","authored":"","checksums":["June 22, 1992","King's Hall","Belfast, United Kingdom"],"city":"Belfast, United Kingdom","date":"1992-06-22","extractedBy":"","extraction":"","generation":"Unknown -> MKV","notes":["June 22, 1992","King's Hall","Belfast, United Kingdom"],"source":{"name":"PRO CLIP #1b","recordingEquipment":""},"surfaced":"August 22, 2018","times":[],"tracks":["Polly (clip)","Blew (clip)"],"transferDetails":"","transferredBy":"Simon Kilmore","venue":"King's Hall","warnings":[]}}},
     "staticQueryHashes": []}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1989-11-27-AMTCLIP 1",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1989-11-27-AMTCLIP 1","recording":{"artist":"NIRVANA","authored":"","checksums":["f8822f149643cc3a53c82bcb7de1b887 *Nirvana 89-11-27 AMT clip.mp4"],"city":"Rome, Italy","date":"1989-11-27","extractedBy":"","extraction":"","generation":"VHS(1) -> MP4","notes":["Ripped from Youtube (https://www.youtube.com/watch?v=gvUKR-L4KgQ)"],"source":{"name":"AMT CLIP #1","recordingEquipment":""},"surfaced":"May, 2009","times":[],"tracks":["Intro","School (part of)"],"transferDetails":"","transferredBy":"Unknown","venue":"Piper Club","warnings":[]}}},
+    "path": "/Nirvana-1989-11-27-AMTCLIP 1",
+    "result": {"pageContext":{"pagePath":"Nirvana-1989-11-27-AMTCLIP 1","recording":{"artist":"Nirvana","authored":"","checksums":["f8822f149643cc3a53c82bcb7de1b887 *Nirvana 89-11-27 AMT clip.mp4"],"city":"Rome, Italy","date":"1989-11-27","extractedBy":"","extraction":"","generation":"VHS(1) -> MP4","notes":["Ripped from Youtube (https://www.youtube.com/watch?v=gvUKR-L4KgQ)"],"source":{"name":"AMT CLIP #1","recordingEquipment":""},"surfaced":"May, 2009","times":[],"tracks":["Intro","School (part of)"],"transferDetails":"","transferredBy":"Unknown","venue":"Piper Club","warnings":[]}}},
     "staticQueryHashes": []}

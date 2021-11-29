@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1989-06-09-AMT3 (?)",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1989-06-09-AMT3 (?)","recording":{"artist":"NIRVANA","authored":"","checksums":["a359a8d4a7781284fc1b45a08a661713 *1989-06-09_AMT3_t01_Floyd_The_Barber.flac"],"city":"Seattle, WA, USA","date":"1989-06-09","extractedBy":"","extraction":"","generation":"UNKNOWN","notes":["June 9, 1989","Moore Theater (Lame Fest)","Seattle, WA, USA"],"source":{"name":"AMT #3 (?)","recordingEquipment":""},"surfaced":"May 14, 2020","times":[],"tracks":["Floyd The Barber"],"transferDetails":"","transferredBy":"Unknown","venue":"Moore Theater (Lame Fest)","warnings":[]}}},
+    "path": "/Nirvana-1989-06-09-AMT3 (?)",
+    "result": {"pageContext":{"pagePath":"Nirvana-1989-06-09-AMT3 (?)","recording":{"artist":"Nirvana","authored":"","checksums":["a359a8d4a7781284fc1b45a08a661713 *1989-06-09_AMT3_t01_Floyd_The_Barber.flac"],"city":"Seattle, WA, USA","date":"1989-06-09","extractedBy":"","extraction":"","generation":"UNKNOWN","notes":["June 9, 1989","Moore Theater (Lame Fest)","Seattle, WA, USA"],"source":{"name":"AMT #3 (?)","recordingEquipment":""},"surfaced":"May 14, 2020","times":[],"tracks":["Floyd The Barber"],"transferDetails":"","transferredBy":"Unknown","venue":"Moore Theater (Lame Fest)","warnings":[]}}},
     "staticQueryHashes": []}

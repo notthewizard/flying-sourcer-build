@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1991-08-25-AUD3",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1991-08-25-AUD3","recording":{"artist":"NIRVANA","authored":"","checksums":["n.a."],"city":"Hasselt, Belgium","date":"1991-08-25","extractedBy":"","extraction":"","generation":"Unofficial CD(Outcesticide 6 - A Mess Of Blues)","notes":["August 25, 1991","Domein Kiewit (Pukkelpop)","Hasselt, Belgium"],"source":{"name":"AUD #3","recordingEquipment":""},"surfaced":"Unknown (Release Date)","times":["3:01"],"tracks":["Polly"],"transferDetails":"","transferredBy":"","venue":"Domein Kiewit (Pukkelpop)","warnings":[]}}},
+    "path": "/Nirvana-1991-08-25-AUD3",
+    "result": {"pageContext":{"pagePath":"Nirvana-1991-08-25-AUD3","recording":{"artist":"Nirvana","authored":"","checksums":["n.a."],"city":"Hasselt, Belgium","date":"1991-08-25","extractedBy":"","extraction":"","generation":"Unofficial CD(Outcesticide 6 - A Mess Of Blues)","notes":["August 25, 1991","Domein Kiewit (Pukkelpop)","Hasselt, Belgium"],"source":{"name":"AUD #3","recordingEquipment":""},"surfaced":"Unknown (Release Date)","times":["3:01"],"tracks":["Polly"],"transferDetails":"","transferredBy":"","venue":"Domein Kiewit (Pukkelpop)","warnings":[]}}},
     "staticQueryHashes": []}

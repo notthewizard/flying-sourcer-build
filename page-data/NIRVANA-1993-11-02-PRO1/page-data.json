@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1993-11-02-PRO1",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1993-11-02-PRO1","recording":{"artist":"NIRVANA","authored":"","checksums":["d17fefde41f3f457a7736016c77f44da *Auditorium de Verdun Clips.mov"],"city":"Verdun, QC, Canada","date":"1993-11-02","extractedBy":"","extraction":"","generation":"TV > VHS(x) > AVI [UtVideo/96khz/16-Bit/PCM] > MOV","notes":["November 2, 1993","Auditorium De Verdun","Verdun, QC, Canada"],"source":{"name":"PRO #1","recordingEquipment":"unknown > unknown"},"surfaced":"February 15, 2021","times":["01:43"],"tracks":["Heart-Shaped Box","Rape Me"],"transferDetails":"Nichola Serra","transferredBy":"","venue":"Auditorium De Verdun","warnings":[]}}},
+    "path": "/Nirvana-1993-11-02-PRO1",
+    "result": {"pageContext":{"pagePath":"Nirvana-1993-11-02-PRO1","recording":{"artist":"Nirvana","authored":"","checksums":["d17fefde41f3f457a7736016c77f44da *Auditorium de Verdun Clips.mov"],"city":"Verdun, QC, Canada","date":"1993-11-02","extractedBy":"","extraction":"","generation":"TV > VHS(x) > AVI [UtVideo/96khz/16-Bit/PCM] > MOV","notes":["November 2, 1993","Auditorium De Verdun","Verdun, QC, Canada"],"source":{"name":"PRO #1","recordingEquipment":"unknown > unknown"},"surfaced":"February 15, 2021","times":["01:43"],"tracks":["Heart-Shaped Box","Rape Me"],"transferDetails":"Nichola Serra","transferredBy":"","venue":"Auditorium De Verdun","warnings":[]}}},
     "staticQueryHashes": []}

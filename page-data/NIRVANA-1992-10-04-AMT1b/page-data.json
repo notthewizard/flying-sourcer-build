@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-recording-template-js",
-    "path": "/NIRVANA-1992-10-04-AMT1b",
-    "result": {"pageContext":{"pagePath":"NIRVANA-1992-10-04-AMT1b","recording":{"artist":"NIRVANA","authored":"","checksums":["n.a."],"city":"Seattle, WA, USA","date":"1992-10-04","extractedBy":"","extraction":"","generation":"Official DVD(With The Lights Out)","notes":["October 4, 1992","Crocodile Cafe","Seattle, WA, USA"],"source":{"name":"AMT #1b","recordingEquipment":""},"surfaced":"April 23, 2004 (Release Date)","times":[],"tracks":["Talk To Me"],"transferDetails":"","transferredBy":"","venue":"Crocodile Cafe","warnings":[]}}},
+    "path": "/Nirvana-1992-10-04-AMT1b",
+    "result": {"pageContext":{"pagePath":"Nirvana-1992-10-04-AMT1b","recording":{"artist":"Nirvana","authored":"","checksums":["n.a."],"city":"Seattle, WA, USA","date":"1992-10-04","extractedBy":"","extraction":"","generation":"Official DVD(With The Lights Out)","notes":["October 4, 1992","Crocodile Cafe","Seattle, WA, USA"],"source":{"name":"AMT #1b","recordingEquipment":""},"surfaced":"April 23, 2004 (Release Date)","times":[],"tracks":["Talk To Me"],"transferDetails":"","transferredBy":"","venue":"Crocodile Cafe","warnings":[]}}},
     "staticQueryHashes": []}
